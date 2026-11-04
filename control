@@ -1,0 +1,10 @@
+Package: com.podpod123.cellbarsx
+Name: CellBarsX
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Pod <pod@podpod123.com>
+Author: Pod <pod@podpod123.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Icon: http://repo.podpod123.com/icons/com.podpod123.cellbarsx.png
